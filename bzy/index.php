@@ -131,7 +131,7 @@
     <style id='rs-plugin-settings-inline-css' type='text/css'>
         #rs-demo-id {}
     </style>
-    <link rel='stylesheet' id='load-google-fonts-css'  href='//fonts.googleapis.com/css?family=sans-serif%3A700%2Cregular%7CSource+Sans+Pro%3Aregular%2C300&#038;subset=latin%2Cvietnamese%2Clatin-ext&#038;ver=4.5.1' type='text/css' media='all' />
+    <!-- <link rel='stylesheet' id='load-google-fonts-css'  href='//fonts.googleapis.com/css?family=sans-serif%3A700%2Cregular%7CSource+Sans+Pro%3Aregular%2C300&#038;subset=latin%2Cvietnamese%2Clatin-ext&#038;ver=4.5.1' type='text/css' media='all' /> -->
     <link rel='stylesheet' id='thegem_js_composer_front-css'  href='http://codex-themes.com/thegem/product-landing/wp-content/themes/TheGem/css/js_composer_columns.css?ver=4.5.1' type='text/css' media='all' />
     <script type='text/javascript' src='js/jquery.js'></script>
     <script type='text/javascript' src='js/jquery-migrate.min.js'></script>
@@ -144,8 +144,8 @@
     <script type='text/javascript' src='js/layerslider.kreaturamedia.jquery.js'></script>
     <script type='text/javascript' src='js/layerslider.transitions.js'></script>
     <script type='text/javascript' src='js/jquery.themepunch.tools.min.js'></script>
-    <script type='text/javascript' src='js/jquery.themepunch.revolution.min.js'></script>
-
+    <!-- <script type='text/javascript' src='js/jquery.themepunch.revolution.min.js'></script>
+ -->
     <script type='text/javascript' src='js/zilla-likes.js'></script>
 
     <style>
@@ -763,7 +763,7 @@
                                                     </div>
                                                     </div></div></div></div><div class="vc_row-full-width"></div><div class="vc_row-full-width-before"></div>
                                     <div class="vc_row-full-width"></div>
-                                    <div id="vc_row-5819c9af30efb" class="vc_row wpb_row vc_row-fluid vc_custom_1462531250016" style=" margin-top: 100px; margin-bottom: 100px !important;">
+                                    <div id="vc_row-5819c9af30efb" class="vc_row wpb_row vc_row-fluid vc_custom_1462531250016" style=" margin-top: 50px; margin-bottom: 100px !important;">
 
                                         <div class="wpb_column vc_column_container vc_col-sm-6">
                                             <h2>Практичность </h2>
@@ -771,7 +771,7 @@
                                             </p>
                                         </div>
                                         <div class="wpb_column vc_column_container vc_col-sm-6" >
-                                            <video controls="controls" style="width: 100%;padding-left: 70px;" poster="images/nov.jpg">
+                                            <video controls="controls" class="gem-divider-cust_pl" style="width: 100%;" poster="images/nov.jpg">
                                                 <source src="video/video.mp4">
                                             </video>
                                         </div>
@@ -781,7 +781,7 @@
                                     <div id="showcase" class="wpb_column vc_column_container vc_col-sm-12">
                                         <div class="vc_column-inner vc_custom_1463393811295">
                                             <div class="wpb_wrapper">
-                                                <div id="fullwidth-block-5819c9af2889c" class="fullwidth-block fullwidth-block-parallax-vertical clearfix" style="padding-top: 110px;">
+                                                <div id="fullwidth-block-5819c9af2889c" class="fullwidth-block fullwidth-block-parallax-vertical clearfix gem-divider-cust" >
                                                     <script type="text/javascript">
                                                         if (typeof(gem_fix_fullwidth_position) == "function") {
                                                             gem_fix_fullwidth_position(document.getElementById("fullwidth-block-5819c9af2889c"));
@@ -1180,7 +1180,7 @@
                                         <div class="wpb_column vc_column_container vc_col-sm-12">
                                             <div class="vc_column-inner vc_custom_1463393811295">
                                                 <div class="wpb_wrapper">
-                                                    <div id="fullwidth-block-5819c9af2889c" class="fullwidth-block fullwidth-block-parallax-vertical clearfix" style="padding-top: 150px;padding-bottom: 130px;">
+                                                    <div id="fullwidth-block-5819c9af2889c" class="fullwidth-block fullwidth-block-parallax-vertical clearfix gem-divider-cust gem-divider-cust_b">
                                                         <script type="text/javascript">
                                                             if (typeof(gem_fix_fullwidth_position) == "function") {
                                                                 gem_fix_fullwidth_position(document.getElementById("fullwidth-block-5819c9af2889c"));
@@ -1190,7 +1190,7 @@
                                                         <div class="fullwidth-block-inner">
                                                             <div class="preloader"><div class="preloader-spin"></div>
                                                             </div>
-                                                            <div class="size-medium style1 gem-testimonials fullwidth-block">
+                                                            <div class="size-medium style1 gem-testimonials">
                                                                 <div id="post-77" class="gem-testimonial-item post-77 thegem_testimonial type-thegem_testimonial status-publish has-post-thumbnail hentry">
                                                                     <a href="#" target="_blank">
                                                                         <div class="gem-testimonial-wrapper">
@@ -1241,7 +1241,7 @@
                                             <div class="vc_column-inner ">
                                                 <div class="wpb_wrapper">
                                                     <div class="clearboth"></div>
-                                                    <div class="gem-divider" style="margin-top: 100px;"></div>
+                                                    <div class="gem-divider gem-divider-cust"></div>
                                                 </div>
                                             </div>
                                         </div>
@@ -1292,7 +1292,7 @@
                                                     </div>
                                                     <div class="vc_empty_space"  style="height: 15px" ><span class="vc_empty_space_inner"></span></div>
                                                     <div class="gem-button-container gem-button-position-center buy_button lazy-loading"><a class="gem-button gem-button-size-medium gem-button-style-outline gem-button-text-weight-thin gem-button-border-1 lazy-loading-item"data-ll-effect="drop-right-without-wrap" style="border-radius: 30px;border-color: #000000;color: #000000;" onmouseleave="this.style.borderColor='#000000';this.style.backgroundColor='transparent';this.style.color='#000000';" onmouseenter="this.style.borderColor='#00bcd4';this.style.backgroundColor='#00bcd4';this.style.color='#ffffff';" href="prod3.php" target="_self">Узнать подробнее</a></div> </div></div></div></div>
-                                    <div id="pricing" class="vc_row wpb_row vc_row-fluid vc_custom_1463055758035"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="clearboth"></div><div class="gem-divider" style="margin-top: 140px;"></div></div></div></div></div>
+                                    <div id="pricing" class="vc_row wpb_row vc_row-fluid vc_custom_1463055758035"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="clearboth"></div><div class="gem-divider gem-divider-cust";"></div></div></div></div></div>
                                     <div id="vc_row-5819c9af30efb" class="vc_row wpb_row vc_row-fluid vc_custom_1462531250016"><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="centered-box gem-image-centered-box"><div class="gem-image gem-wrapbox gem-wrapbox-style-default gem-wrapbox-position-centered lazy-loading" style=""><div class="gem-wrapbox-inner  lazy-loading-item"  data-ll-effect="move-up"><img class="gem-wrapbox-element img-responsive" style="height: 300px; width: auto;" src="images/4.png" alt=""/></div></div></div>
                                                     <div class="wpb_text_column wpb_content_element  wpb_animate_when_almost_visible wpb_appear vc_custom_1463394551655">
                                                         <div class="wpb_wrapper">
@@ -1340,7 +1340,7 @@
                                                     <div class="vc_empty_space"  style="height: 15px" ><span class="vc_empty_space_inner"></span></div>
                                                     <div class="gem-button-container gem-button-position-center buy_button lazy-loading"><a class="gem-button gem-button-size-medium gem-button-style-outline gem-button-text-weight-thin gem-button-border-1 lazy-loading-item"data-ll-effect="drop-right-without-wrap" style="border-radius: 30px;border-color: #000000;color: #000000;" onmouseleave="this.style.borderColor='#000000';this.style.backgroundColor='transparent';this.style.color='#000000';" onmouseenter="this.style.borderColor='#00bcd4';this.style.backgroundColor='#00bcd4';this.style.color='#ffffff';" href="prod6.php" target="_self">Узнать подробнее</a></div> </div></div></div></div>
                                     <div id="vc_row-5819c9af33638" class="vc_row wpb_row vc_row-fluid vc_custom_1462531250016"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="clearboth"></div><div class="gem-divider" style="margin-top: 100px;"></div></div></div></div></div><div class="vc_row-full-width-before"></div>
-                                    <d<div class="vc_row-full-width"></div>
+                                    <div class="vc_row-full-width"></div>
 
                                     <div class="vc_row-full-width-before"></div>
                                     <div id="contact" data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid vc_custom_1463150287434 vc_row-has-fill"><script type="text/javascript">if (typeof(gem_fix_fullwidth_position) == "function") { gem_fix_fullwidth_position(document.getElementById("contact")); }</script>
@@ -1461,9 +1461,6 @@
 
 
 </div><!-- #page -->
-<!-- DELETE -->
-<script>document.write('<script src="http://' + (location.host || 'localhost').split(':')[0] + ':35729/livereload.js?snipver=1"></' + 'script>')</script>
-<!-- DELETE -->
 
 <link rel='stylesheet' id='vc_tta_style-css'  href='css/js_composer_tta.min.css' type='text/css' media='all' />
 <script type='text/javascript' src='js/jquery.dlmenu.js'></script>

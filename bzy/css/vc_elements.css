@@ -14,6 +14,18 @@
 	margin-bottom: 0;
 }
 
+.gem-divider-cust {
+	padding-top: 100px;
+}
+
+.gem-divider-cust_b {
+	padding-bottom: 100px;
+}
+
+.gem-divider-cust_pl {
+	padding-left: 70px;
+}
+
 @media (max-width: 1199px) {
 	.wpb_row {
 		margin-top: -1.421em;
@@ -33,6 +45,15 @@
 	.gem-devider {
 		margin-top: 0;
 	}
+	.gem-divider-cust {
+		padding-top: 50px;
+	}
+	.gem-divider-cust_b {
+		padding-bottom: 50px;
+	}
+	.gem-divider-cust_pl {
+		padding-left: 20px;
+	}
 }
 
 @media (max-width: 768px) {
@@ -42,6 +63,9 @@
 	.fullwidth-block {
 		padding-top: 50px;
 	}
+	.vc_custom_1462969980214 .fullwidth-block {
+		padding-top: 0px;
+	} 
 }
 
 .gem-alert-box .wpb_text_column p:first-child,
